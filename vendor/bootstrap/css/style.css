@@ -1,0 +1,301 @@
+/* input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+*/
+.form-control {
+	text-transform: uppercase;
+}
+
+textarea {
+	resize:none;
+}
+
+.btn-guardar{
+	float: right;
+}
+
+.verde{
+	color: green;
+}
+
+.azul{
+	color: blue;
+}
+
+label{
+	font-weight: normal;
+}
+
+.ventas{
+	text-align: center;
+	background: white;
+}
+
+.fecha{
+	text-align: right;
+	font-size: 18px;
+	color: red;
+}
+
+.punto {
+text-align: center;
+text-transform: uppercase;
+}
+
+.ventas_cuerpo {
+	text-align: center;
+}
+
+.table {
+	text-align: center;
+}
+.tabla_venta th{
+	background: #689996;
+	text-align: center;
+	font-size: 12px;
+
+}
+
+.table-hover > tbody > tr:hover {
+  background-color: #90ABFF;
+}
+
+.span_table{
+	font-size: 18px;
+	font-weight: bold;
+
+}
+
+.footer_table{
+	text-align: center;
+}
+
+.btn-group{
+	text-align: center;
+}
+
+.nva_venta{
+	margin-top: 10px;
+	text-align: center;
+}
+
+.agregar{
+	text-align: right;
+}
+
+.tabla-venta th{
+	text-align: center;
+}
+
+.tabla-venta tr{
+	text-align: left;
+}
+
+.venta{
+	color: green;
+}
+
+.total-venta {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: right;
+	border: 1px;
+}
+
+.aderezo {
+	color: black;
+	text-align: center;
+}
+
+.aderezo a {
+	color: white;
+}
+
+.aderezo_add input {
+	color: black;
+	text-align: center;
+}
+
+.res_total{
+	color: red;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.tot_ing{
+	color: red;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.tot_gral{
+	color: red;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.total_pedido {
+	color: black;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+}
+
+.add_adicionaes{
+	font-size: 12px;
+}
+
+.add_adicionaes input{
+	font-size: 12px;
+	text-align: center;
+}
+
+.add_adicionaes th {
+	text-align: center;
+}
+
+.obsResult p{
+	text-align: center;
+	font-weight: bold;
+}
+
+.tot_ade input{
+	color: black;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+}
+.tot_ade label{
+	color: black;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+}
+
+.TotalGeneral input {
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.TotalGeneral label {
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+}
+
+.venta hr{
+	border: 12px;
+	border-color: blue;
+}
+
+
+.alert{
+	text-align: center;
+}
+
+.posForm{
+	margin-bottom: 20px;
+	background: black;
+}
+
+.pagar{
+	position: relative;
+	display: inline-block;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.cardVentas {
+	background: rgb(209, 206, 206);
+}
+
+.modal-bodyVenta {
+	text-align: left;
+}
+
+.ingVenta {
+	text-align: left;
+}
+
+.ttle {
+	text-transform: uppercase;
+}
+
+.tabla-usuarios th{
+	font-size: 12px;
+}
+
+.tabla-usuarios td{
+	font-size: 12px;
+}
+
+.logotipo img {
+	margin-left: 75px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.sidebar {
+	margin-top: 30px;
+}
+
+.cuerpo {
+	margin-top: 0px;
+}
+
+.cuerpo_main {
+	margin-top: 0px;
+}
+
+/*.logotipo:hover {
+	-webkit-box-shadow: 1px 9px 40px 12px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 9px 40px 12px rgba(0,0,0,0.75);
+	box-shadow: 1px 9px 40px 12px rgba(0,0,0,0.75);
+}*/
+
+.cuadroP:hover {
+	-webkit-box-shadow: 1px 9px 40px 12px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 9px 40px 12px rgba(0,0,0,0.75);
+	box-shadow: 1px 9px 40px 12px rgba(0,0,0,0.75);
+}
+
+.resumenVentas{
+	text-transform: uppercase;
+}
+
+.tabla-resumen td, tr{
+	font-size: 12px;
+}
+
+.dataTables_length {
+	font-size: 12px;
+}
+
+.dataTables_filter {
+	font-size: 12px;
+}
+
+.tabla-resumen > tbody > tr:hover {
+  background-color: grey;
+}
+
+
+input[type=number]::-webkit-outer-spin-button,
+
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+	-moz-appearance:textfield;
+}
